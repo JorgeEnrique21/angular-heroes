@@ -8,8 +8,8 @@ export class Hero {
 const HEROES: Hero[] = [
   { id: 11, name: 'Fabiano' },
   { id: 12, name: 'Xandampião' },
-  { id: 13, name: 'Bombasto' },
-  { id: 14, name: 'Celeritas' },
+  { id: 13, name: 'Geraldobombástico' },
+  { id: 14, name: 'Lenor, a mulher labirinto' },
   { id: 15, name: 'Magneta' },
   { id: 16, name: 'RubberMan' },
   { id: 17, name: 'Dynama' },
